@@ -1,6 +1,6 @@
 #!/bin/sh
 
-[ -d output/ ] && r, -rf output
+[ -d output/ ] && rm -rf output
 [ -d mods/ ] && rm -rf mods
 [ -d mlib/ ] && rm -rf mlib
 
