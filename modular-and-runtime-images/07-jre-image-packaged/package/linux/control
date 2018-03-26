@@ -1,0 +1,12 @@
+Package: greetings
+Version: 1.0
+Section: misc
+Maintainer: Frank Dietrich <bits_n_bytes@gmx.de>
+Priority: optional
+Architecture: amd64
+Provides: greetings
+Description: an example Debian package for a Java application including a bundled
+  Java runtime image
+  .
+  homepage: https://github.com/SubOptimal/pti2018-java9/tree/master/modular-and-runtime-images/07-jre-image-packaged
+Installed-Size: 33758
